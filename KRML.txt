@@ -1,0 +1,35 @@
+morph analysis
+
+	KoGPT2
+	https://github.com/SKT-AI/KoGPT2
+
+	KoGPT3
+	https://github.com/kakaobrain/kogpt
+
+	khaiii
+	https://github.com/kakao/khaiii/wiki/%EB%B9%8C%EB%93%9C-%EB%B0%8F-%EC%84%A4%EC%B9%98
+
+	Kiwi
+	https://github.com/bab2min/kiwipiepy
+
+	KOMORAN
+	https://komorandocs.readthedocs.io/ko/latest/pykomoran/tutorial.html
+
+	soynlp
+	https://github.com/lovit/soynlp?tab=readme-ov-file#tokenizer
+
+Models, tokenizers(auto morph analysis ✔️)
+
+	kykim pretrainedmodels & tokenizers (❗blogs, comments, reviews❗)
+	https://github.com/kiyoungkim1/LMkor?tab=readme-ov-file
+
+	beomi electra pretrainedmodel & tokenizer (❗news comments❗)
+	https://huggingface.co/beomi/KcELECTRA-base-v2022
+
+orthography
+
+	Symspell
+	https://heegyukim.medium.com/symspell%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%ED%95%9C%EA%B8%	80-%EB%A7%9E%EC%B6%A4%EB%B2%95-%EA%B5%90%EC%A0%95-2-%EB%B3%B5%ED%95%A9%EC%96%B4%EC%	99%80-%EB%9D%84%EC%96%B4%EC%93%B0%EA%B8%B0-%EA%B5%90%EC%A0%95-7605ec2fcebc
+
+	korean-typos-corrector
+	https://github.com/jongmin-oh/korean-typos-corrector
