@@ -40,6 +40,7 @@
 
 
 ![result](https://github.com/user-attachments/assets/68e5dc19-3f1b-4795-98e6-7f0216215754)
+<br>
 &rightarrow; KcElectra가 loss와 정확도 측면에서 준수하게 나와 모델로 설정하였습니다.
 
 ### 실행화면
